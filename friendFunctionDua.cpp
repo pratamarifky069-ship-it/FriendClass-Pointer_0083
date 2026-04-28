@@ -17,7 +17,7 @@ class pelajar{  // constructor untuk nilai awal
         friend void manusia::showNilaiPelajar(pelajar &x);
 };
 
-void manusia::showNilaiPelajar(pelajar &x){
+void manusia::showNilaiPelajar(pelajar &x){     // function untuk menampilkan nilai pelajar
     cout <<x.nilai;
 }
 
