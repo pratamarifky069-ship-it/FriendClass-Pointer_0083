@@ -19,7 +19,7 @@ class siswa{
 
     public:
         void setId(int pId);
-        void displayAll(orang &a);
+        void displayAll(orang &a);   // menampilkan data siswa dan orang
 };
 
 void siswa::displayAll(orang &a){
