@@ -1,3 +1,4 @@
+// friend function antar class
 #include <iostream>
 using namespace std;
 
