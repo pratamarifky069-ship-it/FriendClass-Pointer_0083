@@ -15,7 +15,7 @@ class BelahKetupat{     // class untuk menghitung luas dan keliling belah ketupa
             cout << "Masukkan sisi: ";
             cin >> sisi;
         }
-        float luas(){
+        float luas(){   // menghitung luas berdasarkan diagonal
             return 0.5 * d1 * d2;
         }
 
