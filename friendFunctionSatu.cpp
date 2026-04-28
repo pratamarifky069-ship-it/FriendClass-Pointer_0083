@@ -9,7 +9,7 @@ class mahasiswa{
         friend void setNama(mahasiswa &a, string);  // deklarasi friend function
 };
 
-void setNama(mahasiswa &a, string b){
+void setNama(mahasiswa &a, string b){   // friend function dapat mengakses private
     a.nama = b;
     cout <<a.nama;
 }
