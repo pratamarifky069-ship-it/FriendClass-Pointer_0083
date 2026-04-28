@@ -11,6 +11,7 @@ class mahasiswa{
 };
 
 int main(){
+    // alokasi memori menggunakan new
     mahasiswa *mhs = new mahasiswa[1];  // pointer Object mhs
     mhs->nim = 2;
     mhs->showNim();
