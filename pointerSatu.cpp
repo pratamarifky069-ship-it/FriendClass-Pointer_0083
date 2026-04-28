@@ -18,6 +18,7 @@ int main(){
     refMhs.nim = 2; // Member Access Operator
     mhs.showNim();
 
+    // penggunaan pointer untuk mengakses object
     mahasiswa *pMhs = &mhs; // Pointer Deference pMhs
     pMhs->nim = 3;  // Arrow Operator
     pMhs->showNim();
