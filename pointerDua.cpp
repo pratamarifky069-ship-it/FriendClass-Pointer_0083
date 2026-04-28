@@ -1,3 +1,4 @@
+// program dynamic allocation menggunakan pointer
 #include <iostream>
 using namespace std;
 
