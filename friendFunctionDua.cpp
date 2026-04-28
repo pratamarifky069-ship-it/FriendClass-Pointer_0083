@@ -8,7 +8,7 @@ class manusia{
         void showNilaiPelajar(pelajar &x);
 };
 
-class pelajar{
+class pelajar{  // constructor untuk nilai awal
     private:
         int nilai;
     
