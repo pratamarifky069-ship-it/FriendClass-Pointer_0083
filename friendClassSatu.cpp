@@ -10,7 +10,7 @@ class orang{
 
     public:
         void setNama(string pNama);
-        friend class siswa;
+        friend class siswa;     // deklarasi friend class agar bisa akses private
 };
 
 class siswa{
