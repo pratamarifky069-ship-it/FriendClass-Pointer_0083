@@ -1,3 +1,4 @@
+// program friend function sederhana
 #include <iostream>
 #include <string>
 using namespace std;
