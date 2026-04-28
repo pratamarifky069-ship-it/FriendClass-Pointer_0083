@@ -6,7 +6,7 @@ class mahasiswa{
     private:
         string nama;
     public:
-        friend void setNama(mahasiswa &a, string);
+        friend void setNama(mahasiswa &a, string);  // deklarasi friend function
 };
 
 void setNama(mahasiswa &a, string b){
