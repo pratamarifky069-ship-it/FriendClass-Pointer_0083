@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class BelahKetupat{
+class BelahKetupat{     // class untuk menghitung luas dan keliling belah ketupat
     private:
         float d1, d2, sisi;
 
