@@ -29,7 +29,7 @@ class BelahKetupat{     // class untuk menghitung luas dan keliling belah ketupa
         }
 };
 
-class LayangLayang{
+class LayangLayang{     // class untuk menghitung luas dan keliling layang-layang
     private:
         float d1, d2;
         float sisi1, sisi2;
