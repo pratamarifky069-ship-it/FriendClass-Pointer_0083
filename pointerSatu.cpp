@@ -1,3 +1,4 @@
+// program pointer pada object mahasiswa
 #include <iostream>
 using namespace std;
 class mahasiswa{
